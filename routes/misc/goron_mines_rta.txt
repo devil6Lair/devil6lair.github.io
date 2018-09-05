@@ -1,0 +1,61 @@
+Goron Mines RTA - Beat Goron Mines from a new file, no other restrictions. Timing starts on this screen when you press A 'Complete' (http://i.imgur.com/q2Thy9Q.jpg). Timing ends when you say yes to Midna leaving Goron Mines.
+
+== Route ==
+
+:: FARON ::
+Gate clip
+BiT
+Get Lantern
+Kill Bokoblins
+Goats
+Iron Boots
+Hyrule Castle
+S+S Skip
+Get Vessel of Light and collect all tears
+Roll to Ordon bridge and save
+Set the Early Monkeys flag by doing BiTE at the bridge and then resetting in the King Bublin fight void
+Get small key from Coro
+Push the monkey
+Steal oil
+Roll up to and enter Forest Temple
+Head to the main bridge (early monkeys)
+Make sure to void before swinging across the monkeys (resets the flag, else you get early King Bublin later, which is not desirable)
+Gale Boomerang
+Save Warp
+Get Forest Ooccoo
+Ooccoo out and roll back through the fog
+Roll to Ordon bridge again and save
+Do BiTE once more, kill KB1 and reload Kakariko Twilight by entering the house and leaving
+Kill Kak messengers to open the portal
+Ooccoo back
+Ooccoo out and roll back through the fog for the last time
+Forest Escape
+
+:: ELDIN ::
+Do Mail Man skip
+Enter Eldin Twilight
+Kill Gorge Messengers to get Map Warping
+Warp to Kakariko after the forced warp to Faron
+Get the Vessel of Light
+Bomb House Skip (https://www.youtube.com/watch?v=a2O7XJVk2yE)
+Collect all light tears
+Goron 1 Skip (https://www.youtube.com/watch?v=wkTvQnbM_WA)
+Early Elevator (https://www.youtube.com/watch?v=PLQII3NLqeQ)
+Savewarp to get behind the Goron
+Put on Iron Boots before the cs, wrestle the elder and enter Goron Mines
+
+:: GORON MINES ::
+Run through the 2 flames and LJA towards the gate
+Jump down to small key chest and hop across spinning platforms (Iron Boots on/off after each hop)
+Pull back the chain 3 times and roll clip into the wall
+Get the first keyshard from the first Goron Elder
+Climb ladder, walk on magnetic ceiling and do other boring stuff
+Get small key in tektite room and skip pushing underwater block, hit switch, Iron Boots
+Skip the second Goron Elder (LJA to miniboss)
+Get Hero's Bow, shoot rope, quick scope Beamo, pull back two times, flame boost and head through door
+Get the final keyshard from the third Goron Elder
+LJA over by the bulblin archers
+Fyrus
+GM RTA DONE
+
+-Skyreon, Zaf1re, http://forums.zeldaspeedruns.com/index.php?topic=1429.0, Dragonbane

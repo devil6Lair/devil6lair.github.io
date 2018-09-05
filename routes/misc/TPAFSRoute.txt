@@ -1,0 +1,73 @@
+== Timing == 
+Timer starts on this screen when you press A 'Complete' http://i.imgur.com/q2Thy9Q.jpg (No -9.40/-9.27 delay) Also keep in mind that it's a file that did BiT and saved. So Link will start by the Faron spring right before the lantern.
+Timer ends when you say Yes to Midna leaving Lakebed Temple.
+
+
+-:- Without Zora Armour (Fastest) -:-
+
+== Video ==
+http://www.twitch.tv/giradam/c/3849050
+
+== Route ==
+
+:: FARON ::
+
+(Gate clip
+BiT)
+Get Lantern
+Kill Bokoblins
+Goats
+Iron Boots
+Hyrule Castle
+S+S Skip
+Get Vessel of Light
+Do Master Sword puzzle then leave Sacred Grove
+Save warp and jump off three times
+Hit yes on game over prompt and finish the twilight
+Get small key from Coro
+Push the monkey (try to get as many rupees as possible here so you can skip some in GM to save time but don't have the monkey stop and wait for you)
+Roll up to Forest Temple
+Look for rupees after second monkey saved
+Gale Boomerang, save warp
+Acquire Fused Shadow #1
+Call Epona and ride to Hyrule Field
+
+:: ELDIN ::
+Do Mail Man skip
+Enter Eldin Twilight
+Warp the bridge
+Avoid Bulblin trigger
+Get the Vessel of Light
+Collect all light tears
+Exit Kakariko and activate King Bublin battle (you can do this step right after GM if you prefer to kill him w/ the bow. You don't defeat him with the bow in Any% so it's good practice to do this step now. Slightly slower)
+Get 30 rupees up on the ledge before 'Goron-Bo' (30R)
+Wrestle the elder and enter Goron mines
+
+:: GORON MINES ::
+Run through the 2 flames and LJA towards the gate
+Jump down to small key chest and hop across spinning platforms
+Pull back the chain 3 times and roll clip into the wall
+Get the first keyshard from the first Goron Elder
+Open the small 20-rupee chest behind the first Goron Elder (50R)
+Open the small 20-rupee chest by the switch (LJA the pipe. Don't walk w/ Iron Boots that's slow..) (70R)
+Skip the Second Goron Elder (LJA to miniboss)
+Get Hero's Bow
+Get the final keyshard from the third Goron Elder and open the 50 rupee chest behind him (120R)
+LJA over by the Moblin archers
+Acquire Fused Shadow #2
+
+:: LANAYRU ::
+Call Epona and ride to Barnes, enter and buy the bomb bag (0R. Get 10 greens or something for the cannon later; easy)
+Ride Epona to the cave by Coro and empty bombs along the way (one bomb needed for bomb boost and one in Lakebed, save if you're scared)
+Bomb boost (http://www.youtube.com/watch?v=h_8U8NrNNSY)
+Get Master Sword and warp to S. Faron
+Call Epona and ride her to Lanayru gate clip
+Pillar clip, save warp
+Hit Child Dungeons World Record switch
+Bomb the stalactite and get water bombs (WB 10)
+Get Clawshot (use bomb arrows on miniboss)
+Save warp if you turned the bridge and get first room water bombs, if not, leave and go BK skip
+Morpheel and portal
+
+
+-Skyreon, Zaf1re, http://forums.zeldaspeedruns.com/index.php?topic=1429.0

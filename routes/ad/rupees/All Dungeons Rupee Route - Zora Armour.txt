@@ -1,0 +1,12 @@
+This is considering you don't get any greens or blues out of Pots ect
+This is really a worse case scenario
+
+Point			Should have		Where gotten
+Enter SPR		90/95R			Snowboarding, treetops(70/75R)+20R
+*Note: If you miss tree tops you can get 100R in room after Ball and Chain
+Zora Armour		110R			90R + 20R from bombable rock
+Enter Lakebed		120R			110R + 10R on pillar
+Enter Arbiter's	Grounds	170R			120R + 50R from chest
+Exit Arbiter's	Grounds	250R			170R + 4 x 20R from redeads
+Enter Goron Mines	280R			250R + 30R on ledge up top
+Enter CitS		300R			280R + 20R above/inside canon house

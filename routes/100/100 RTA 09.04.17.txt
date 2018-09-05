@@ -1,0 +1,629 @@
+Adapted by Devil6Lair
+Original from Giradam
+
+Information:
+-Howling stones. no longer in order of route: http://i.imgur.com/mueaxNA.png
+-Lake Hylia cave map: http://i.imgur.com/r3PxB3b.png
+
+--------------------
+Faron Province
+--------------------
+
+Start File 2 
+Ordon days 1 and 2
+Slingshot
+Savewarp (BiTE file) (File 2)
+Gate clip
+HP in cave (HP 1)
+Save Talo
+Goats 2
+Crawlspace to OS (1R)
+
+Sewers
+Ordon Sword and Shield
+Enter Faron Twilight
+
+Get Faron Vessel
+Kill bugs, collect Coro area/tree stump
+EMS
+[HOWL] NF stone
+Sacred Grove, save when enter (Flag file) (File 1)
+Skull Kid 1 (Get Misc Here If Can)
+Master Sword
+Warp SF
+
+Human across toxic haze
+10R Behind Sign While Getting Bugs (11R)
+Light web after killing final bugs
+Clear Twilight (1 frame backflip)
+Save warp (Run file) (File 3)
+
+BiT at bridge with run file
+Set flag for early monkeys (Using shop save)
+Load run file
+Warp NF
+
+Ending Blow (HS 1)
+Forest Temple (HP 2/3) (Savewarp Over File 2)
+
+
+--------------------
+Eldin Province
+--------------------
+ 
+Dash to Hyrule Field
+Postman skip
+Enter Eldin Twilight
+Map warp ability
+Warp bridge -> KG
+Get Eldin Vessel
+[HOWL] DM stone
+Clear Eldin twilight (17R)
+
+Enter Abandoned House Via Roof
+(GB 1)
+Exit Via Roof
+Dash To DM
+Trigger Goron, warp KV
+Tame Epona
+Warp to OS
+
+Shield Bash (HS 2)
+Call Epona
+Ride to Ordon
+100R rupees behind house (117R)
+Iron Boots
+Goat in (HP 4)
+Warp SF
+
+
+--------------------
+Lanayru Province
+--------------------
+
+Call Epona
+Ride to Hyrule Field, head north
+Tree HP (HP 5)
+Get bug on tree (GB 2)
+Lanayru gate clip
+
+Pillar clip
+Save warp (File 2)
+
+Load grove file (File 1)
+Howl, skip cs, reset
+Load run file (File 2)
+Early HP (HP 6)
+Early clawshot
+Save warp
+Get Ooccoo (clawshot over)
+Ooccoo warp
+
+Drown bulblin rider
+Kargarok flight
+Open ZD portal
+Warp DM
+
+Warp meteor -> ZD
+Get Lanayru vessel
+Clear Lanayru twilight
+
+Lanayru shrine HP (HP 7)
+Warp LH
+
+Plumm minigame (HP 8)
+[HOWL] UZR stone
+Enter Fishing Pond
+Clawshot HP (HP 9)
+Swim to dock
+Fish for bottle
+	If 1st or 2nd try roll outside to UZR
+	If 3rd try or worse, savewarp outside
+Boomerang bug (GB 3)
+Open UZR portal
+Ooccoo warp -> Lakebed (steal bombs)
+Ooccoo warp -> LH
+Warp ZD
+
+Exit ZD
+	If bottle was first try, exit left side and get Bug (GB 4) 
+	If bottle was second try or worse, exit right side, skip bug
+Enter SP province
+Map glitch
+Climb mountain, collect poes (Poe 1-3)
+[HOWL] SP stone
+Keese cave
+Open SP portal
+Warp CT
+
+Bug in flowers (GB 5 or 4)
+LJA to ruins' chest (217R)
+Get poe (Poe 4)
+Dash to golden wolf, Backslice (HS 3)
+Postman skip, enter CT
+
+Donate 200R to Charlo (200/1000) (17R)
+Enter Telma's bar
+Start escort
+King Bulblin 2 Skip
+Blow up rocks on cliffs
+Blow up rock with 2 yellow rupees (37R)
+100R in escort (137R)
+Finish escort
+Zora Armor
+Warp KV
+
+Dash to Epona near KG entrance
+Ride Epona out north exit
+
+Postman skip (LJA Using Ground By Rocks)
+Boomerang bug near field start on Epona
+Dash to north-west bug and collect to teleport previous bug to you (GB 7 AND 6) OR (GB 6 AND 5)
+Dash towards Eldin Bridge
+Backflip off Epona at Eldin bridge start
+LJA to bridge HP (HP 10)
+Get arch bug in boomerang and go on Epona so bug follows in boomerang
+Blow up rocks to Lanayru
+
+Ride Epona towards stockcave
+Boomerang bug on wall and collect to teleport arch bug also (GB 9 AND 8) OR (GB 8 AND 7)
+40R Rock Rupees (177R)
+	- 200R including misc min (23r misc min)
+	- GET 220R IF POSSIBLE
+	- 250R maximum (73r)
+Enter stockcave from exit
+Stockcave HP (HP 11)
+Ooccoo warp -> Lakebed
+
+Chandelier HP (HP 12)
+Big key skip (Zora Armour On)
+Morpheel
+Lakebed Temple
+
+--------------------
+Desert Province
+--------------------
+
+Dash to CT
+Transform human before entering
+Donate Old Man 200R (400/1000) (0R+)
+Agitha 1, give 8 bugs (8/24) (450R+)
+
+Roll to Telma's bar
+Transform wolf before entering
+Poe by Jovani (Poe 5)
+Midna's Desperate Hour
+
+Warp SP (Pause Buffer For Quick Warp)
+Snowboarding, hit Midna trigger (470R+)
+Enter SPR
+	Early HP (HP 13)
+	Courtyard small key
+	Get Ball and Chain
+Save warp (File 2)
+
+Load SF bridge file (File 3)
+BiT at bridge
+BiTE with SPR file (File 2)
+King Bulblin 1
+Warp CT
+
+Dash Cliff
+Transform, Cliff Bug (GB 10 or 9)
+Dash LH Bridge
+Transform, get bug on bridge (GB 11 or 10)
+Transform, dash to Falbi's minigame
+Flight by Fowl 1 (450R+)
+Top Chest (550R+)
+Next Chest (HP 14)
+Get poe on platform (Poe 6)
+Dash to Fyer, cannon up (540R+)
+Flight by Fowl 2 (520R+)
+Get poe on cliff (Poe 7)
+Warp LH
+
+Get poe across sections (Poe 8)
+Dash to ladder, climb
+Lake Hylia Cave (Poe 9-11, HP 15)
+Exit through light
+[HOWL] LH stone
+Poe by Auru's tower (Poe 12)
+Get Auru's memo
+Swim to Fyer
+Oasis Flight
+
+Poe south of spawn (Poe 13)
+Dash west
+Get bug on way (GB 12 or 11)
+Get bug in northern trench (GB 13 or 12)
+Open GM portal
+Dash to northeast grotto
+Poe above grotto (Poe 14)
+Poes in grotto (Poe 15/16)
+Dash to barricades, break with B&C
+Get poe ahead (Poe 17)
+Helm Splitter (HS 4)
+Enter Bulblin camp
+
+Map glitch, OoB -> KB 3
+King Bulblin 3
+Open path to AG
+Roll back to camp
+
+Boar roast HP (HP 16)
+Transform
+Dash to KB 3 fight, get poe (Poe 18)
+Get poe left of AG entrance (Poe 19)
+Arbiter's Grounds (Poe 20-23, HP 17/18, 580R) (3 redeads or 2 by poe and misc 20r)
+
+--------------------
+Goron Mines
+--------------------
+
+Open MC portal
+Raise mirror
+Warp ZD
+
+Drop down by vines
+Get poe by waterfall (Poe 24)
+Midna jumps to other side, get poe (Poe 25)
+	Get bug to left now if not gotten because bad bottle RNG (GB 13)
+Wolf To SP
+Enter SP province
+Get Ashei's sketch
+Warp KV
+
+Dash to Epona
+Ride Epona to KG
+Hug left wall, get bug near trees (GB 14)
+Ride Epona over bridge, get off
+Get bug on ground (GB 15)
+Roll to Gorge Cave, enter
+Gorge Cave (HP 19, Poe 26)
+Save warp (can't do ZA off as wolf btw)
+
+Get poe by tree (Poe 27)
+Dash to vines, transform
+Double HP LJA (HP 20/21)
+Void warp
+
+Ride Epona to South Hyrule field
+Get bug on tree (GB 16)
+Ride Epona to mid-field
+Get poe (Poe 28)
+Ride Epona to LH bridge
+Clawshot up cliffs
+poe (Poe 29)
+Dash towards LH bridge
+Get bug on wall (GB 17)
+Warp KV
+
+Enter graveyard
+Get poe in grave (Poe 30)
+Get poe in center (Poe 31)
+Get bug on tree (GB 18)
+Mortal Draw (HS 5)
+Show sketch to Ralis
+Warp DM
+
+Early elevator
+Agree to elder
+LJA void warp to reload area
+Enter mines
+Goron Mines (HP 22/23) (29A) (Zora Off Before Lava Void)
+
+--------------------
+Snowpeak Ruins
+--------------------
+
+Roll to Barne's shop
+Buy bomb bag (460R)
+Sell bombs (505R)
+Buy 5 water bombs (475R) (5WB)
+Exit through top
+
+Roll to watchtower
+Goron boost up
+Archery minigame (HP 24) (26A)
+Warp ZD
+
+Get Goron bomb bag (4WB)
+Rocket link (3WB)
+Warp SP
+
+Map glitch
+LJA to SPR
+Save warp (Zora On)
+Enter SPR
+Snowpeak Ruins (575R, Poe 32-34, HP 25) (22A)(26B, 3WB)
+
+--------------------
+Sacred Grove 2
+--------------------
+
+Warp NF
+Bomb boost (2WB)
+Enter Sacred Grove
+Skull kid Chase(Poe 35) (19A)
+Skull Kid Fight (16A)
+Open SG portal
+Temple of Time (HP 26/27, Poe 36/37) (26A)
+	2 Armos (14A)
+	3 Crystal Switch + 1 Lizalfos Group (10A)
+	1 BK (9A)
+	OPTIONAL: Bombarrow lizalfos top
+	2 Armos (6/7A)
+	+10 Pot (16/17A)
+	1 Darknut (15/16A)
+	+20 pot before gohma (30A)
+	3 Gohma + 1 Eyeball (26A)
+
+--------------------
+Ilia's Memory Quest
+--------------------
+
+Move right statue, get poe (Poe 38)
+Move left statue, gale bug (GB 19)
+Get HP in chest (HP 28)
+Exit realm
+
+Get bug above entrance below (GB 20)
+Roll to fight area
+Bomb arrow rock, get poe (Poe 39) (25A)
+Dig into grotto
+Clear grotto, get HP (HP 29) (24A)
+Exit grotto, warp KV
+
+Enter Malo Mart
+Donate 500R (500/1200) (75R)
+Exit mart, enter hut
+Get Renado's letter
+Exit hut
+Bomb arrow path open (23A)
+Gale HP above through rock (HP 30)
+Roll to spring
+Bomb in water (watch SVA video)
+Sink for chest (HP 31)
+50R (125R) (1WB)
+Warp SP
+
+Race Yeto (145R+) (go for tree tops)
+Void warp
+Race Yeta (165R+, HP 32) (go for tree tops)
+	Want 250R here from races combined.
+Transform on stairs
+Avoid trigger, get poe on hill (Poe 40)
+Void warp
+Enter cave
+Break ice block for poe (Poe 41)
+	Light Torches For 100R chest if no tree tops (250R)
+Warp CT
+
+Postman skip, enter CT
+Donate Old Man 250R (650/1000) (0R)
+Agitha 2, give 8 bugs (16/24) (600R)
+Show Renado's letter to Telma
+Show Invoice to Doctor
+Push box x2, get Medicine scent
+Exit east CT
+Talk to Goron
+Warp KV
+
+Enter Malo Mart
+Donate 500R (1000/1200) (100R)
+Exit mart
+Hotspring water delivery (HP 33)
+Transform wolf, enter CT
+
+Get bridge poe (Poe 42)
+Visit Jovani for bottle
+Talk to Louise outside Telma's bar
+Exit south CT
+
+Get poe on stairs (Poe 43)
+Get bug near tree (GB 21)
+Backslice to chest (200R)
+Backslice over wall
+Roll to bug in flowers (GB 22)
+Transform, dash to stone path
+Get Wooden Statue
+Jump Strike (HS 6)
+Drop to chest (300R)
+Warp KV
+
+Enter sanctuary
+Show Wooden Statue -> Ilia
+Exit sanctuary
+Get silver rupee from bell (500R) (22A)
+Exit north KV
+
+Blow up rock above, clawshot (HP 34) (21A)
+Ride Epona to EB
+LJA to other side (void warp)
+Open EB portal
+Transform wolf, dash to HV
+
+Clear enemies (4A)
+Show Dominion Rod -> Woman
+[HOWL] HV stone
+Warp UZR
+
+Enter Iza's shack
+Bomb arrow rocks x2 (2A)
+Save warp (30A)
+Swim to poe (Poe 44)
+Down river to North Hyrule field
+Get poe on bridge (Poe 45)
+Go on outer path
+Gale bug above cave entrance (GB 23)
+Lanayru ice cave (HP 35)
+Transform, exit cave
+
+Head right
+Get bug on tree (GB 24)
+Dig into grotto (Poe 46/47)
+Exit grotto
+Head up path
+Break rocks
+Spinner to chest (HP 36)
+Warp KV
+
+Enter Malo Mart
+Donate 200R (1200/1200) (300R)
+Buy Hawkeye, Hylian Shield (0R)
+Exit mart, enter sanctuary
+Show Ilia's Charm -> Ilia
+
+--------------------
+CitS
+--------------------
+
+Show Ancient Book -> Shad
+Statue clip
+Warp Cannon -> LH
+Iza 1 skip
+
+Warp CT
+Postman skip
+Agitha 3, give 8 bugs (24/24) (600R)
+Great Spin (HS 7)
+
+Warp LH
+Dash to Fyer
+Repair sky cannon (300R)
+City in the Sky (Poe 48/49) (HP 37/38) (29A)
+
+--------------------
+PoT
+--------------------
+
+Fall on bridge (no magic armor)
+Warp SF
+
+Dash behind Coro, transform
+Buy bottle (200R)
+Break rocks (28A)
+Move statue
+Midna jump to haze area
+Open chest (HP 39)
+Get poe on tree trunk (Poe 50)
+Warp MC
+
+Enter Twilight realm
+Palace of Twilight (HP 40/41)
+Save warp (not on prompt)
+
+--------------------
+CoO
+--------------------
+
+Warp GM
+Warp bridge -> EB
+Dash to postman trigger behind Epona
+Ride Epona towards HV
+Grotto outside HV (HP 42)
+Exit grotto, enter HV
+Cat minigame (HP 43)
+Get poe in village (Poe 51)
+Warp UZR
+
+Iza's minigame (180R) (dig heart if needed)
+Get poe nearby (Poe 52)
+Warp GM
+
+Cave of Ordeals (Poe 53-55, jelly, 973R) (get 793R, 493R misc + 300R dug)
+
+1: 1 bulblin
+[EQUIP] clawshots, bombarrows
+2: 3 keese, 3 rats
+3: 4 deku babas (bomb arrow ceiling x3)
+4: 3 giant spiders
+5: 3 archers (roll stab towards up-right)
+6: torchslugs
+7: fire keese, dodongos
+8: tektites
+9: 2 archers, 2 lizalfos (drop spin)
+10: fairy 1
+[EQUIP] spinner -> clawshot (3 right)
+
+11: rats, helmasaurs (drop spin)
+[EQUIP] clawshot -> spinner (instant)
+12: giant chu
+13: 4 chu worms
+14: bubbles
+[Dig Orange]
+15: bulblins (B-Charge)
+16: keese, rats
+17: [POE] stalhounds (jump ahead, backflip+GS, rollx2 + GS)
+18: leevers (JA side for single spawn area)
+[EQUIP] bottle + b&c
+19: [SPECIAL CHU] chus
+20: fairy 2
+
+21: bokoblins, ice keese
+22: keese, rats, ghoul rats
+[HEART DIG IF NEEDED]
+23: stalkin
+24: redeads
+[EQUIP] rod + bomb arrows
+25: archer tower, bulblins
+26: 3 stalfos
+27: 3 giant spiders, bubbles
+28: lizalfos, bokoblins
+29: stalkin, stalfos, bubbles
+30: fairy 3
+
+31: beamos, keese (bomb arrow above)
+[EQUIP] b&c + clawshot
+32: torchslugs, fire keese, dodongos
+33: [POE] redeads
+[WOLF]
+34: chus, ghoul rats
+[HEART DIG IF NEEDED]
+[EQUIP] bomb arrows -> clawshot
+35: freezard, ice keese
+36: chilfos
+37: leevers, bubbles, ice bubbles
+38: 2 freezards, ice bubbles, chilfos
+39: 2 darknuts
+[DIG SILVER]
+40: fairy 4
+
+41: armos (STAY UP)
+[EQUIP] milk + clawshot
+42: bokoblins, deku babas
+[EQUIP] bow -> bottle
+43: lizalfos, archers
+[WOLF]
+44: [POE]
+Save warp
+
+--------------------
+HC
+--------------------
+
+Get poe outside (Poe 56)
+Warp SG
+Get poe near ms (Poe 57)
+Warp KV
+
+Go to inn roof as wolf
+Transform, get cucco
+Fly to roof of Barne's shop
+Get poe in wreckage (Poe 58)
+Get poe near watchtower (Poe 59)
+Dash to DM trail
+
+Transform before Goron
+Boost up to edge
+Get poe (Poe 60)
+Get rupees if needed (973R)
+Get chest (HP 44)
+Warp CT
+
+Enter CT (as human, no postman skip)
+STAR Game 1 (963R)
+STAR Game 2 (948R)
+Donate 350R to Charlo (1000/1000) (HP 45) (598R)
+Magic Armour (0R)
+Hyrule Castle

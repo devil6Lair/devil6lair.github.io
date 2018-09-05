@@ -1,0 +1,86 @@
+Bit [save into file slot 2]
+Continue run on file slot 2
+Cage break [lantern y]
+Goats
+Iron boots [save after iron boots after leaving Bo's house into file slot 3] this is used for back in time equipped later(village day 3 allows it)
+Hyrule castle/sewers [save here after leaving the high tower to Zelda into file slot 1] this is used for fast back in time access
+Sword and shield skip
+Shadow beast super jump
+Sacred grove enter [skip all cutscenes like normal]
+Early master sword
+Warp south faron 
+Enter forest [save inside forest on file 2]
+[go on file 1 and do back in time]
+[do back in time equipped with file 3]
+(void reset to enable flag for early Monkeys/Ook/Boomerang)
+Go back to run file [2]
+Early monkeys/ook/boomerang
+Save warp
+Forest escape [iron boots y][boomerang x]
+Mailman skip
+Gorge void
+Rupee roll
+Enter kakariko, Kakariko messengers
+Leave 
+Map warping
+Warp south faron
+Forest escape 2
+Pillar clip
+Lja to deku toad early
+Enter door to deku toad, C-up to start fight with Early Monkey flag active
+Clawshot
+Leave to main room
+Clawshot over to upstairs
+Get ooccoo
+Clawshot over, get to the hallway towards the stalactite room
+Ooccoo out
+Kargarok skip
+Zora's domain
+Warp eldin
+Eldin twilight
+Warp zora's domain rock
+Lanayru twilight [rutela skip]
+Lent bomb bag (Iza)
+Ooccoo to lakebed
+Empty bombs in stalacite room
+Get Water bombs
+Ooccoo out
+Zora's domain
+Real bomb bag
+Snowpeak early (empty bombs)
+Enter snowpeak
+Ball & Chain
+Orange rupee (100r)
+Ooccoo to lakebed
+Boss key skip
+Morpheel
+Mdh
+Enter arbiter's (map glitch key skip)
+Spinner
+Stallord
+Cits (water bombs, ugh)
+Clawshots
+Argarok (city in the sky)
+Light sword
+Zant (palace of twilight))
+Hyrule castle
+Ganondorf
+End
+
+
+file selections below (this is just the optimal file order to save a little time on menu movement) no big deal I guess.
+-------------------------
+
+file select 1 [(save into file slot 2, current selected)]
+
+file select 2 [save into file slot 3 for bite in ordon, tap down]
+
+file select  3 [file slot slot 1 for bit in hyrule, tap up]
+
+file select 4 [file slot 2, (slot 2 currently selected)]
+
+file select 5 [reload slot 1 for bit, 1 tap up]
+
+file select 6[slot 3 for  bite, 1 tap down, (slot 2 currently selected)]
+
+file select 7[slot 2 to continue run, slot 2 currently selected]
